@@ -1,0 +1,226 @@
+[
+  {
+    "did_document": {
+      "@context": "https://w3id.org/did/v1",
+      "id": "did:sov:4UfeU5FDSn5BJeXQThs3Am",
+      "authentication": ["did:sov:4UfeU5FDSn5BJeXQThs3Am#1"],
+      "service": [
+        {
+          "id": "did:sov:4UfeU5FDSn5BJeXQThs3Am#didcomm-0",
+          "type": "did-communication",
+          "priority": 0,
+          "recipientKeys": ["did:sov:4UfeU5FDSn5BJeXQThs3Am#1"],
+          "serviceEndpoint": "192.168.2.109:3000"
+        }
+      ],
+      "verificationMethod": [
+        {
+          "id": "did:sov:4UfeU5FDSn5BJeXQThs3Am#1",
+          "type": "Ed25519VerificationKey2018",
+          "controller": "did:sov:4UfeU5FDSn5BJeXQThs3Am",
+          "publicKeyBase58": "2tv53CrMDF1J3QoLBGaGCrQbP6FHyKcty4a2PQgR4SbM"
+        }
+      ]
+    },
+    "metadata": {
+      "resolver_type": "native",
+      "resolver": "LegacyPeerDIDResolver",
+      "retrieved_time": "2024-08-28T18:12:23Z",
+      "duration": 5
+    },
+    "id": "4226879c-dc70-4894-a714-c743229c101d",
+    "recipientKeyFingerprints": ["4UfeU5FDSn5BJeXQThs3Am"]
+  },
+  {
+    "did_document": {
+      "@context": "https://w3id.org/did/v1",
+      "id": "did:sov:Sj8VLmEbc7w5tgaBgS3JNb",
+      "authentication": ["did:sov:Sj8VLmEbc7w5tgaBgS3JNb#1"],
+      "service": [
+        {
+          "id": "did:sov:Sj8VLmEbc7w5tgaBgS3JNb#didcomm-0",
+          "type": "did-communication",
+          "priority": 0,
+          "recipientKeys": ["did:sov:Sj8VLmEbc7w5tgaBgS3JNb#1"],
+          "serviceEndpoint": "192.168.2.109:3000"
+        }
+      ],
+      "verificationMethod": [
+        {
+          "id": "did:sov:Sj8VLmEbc7w5tgaBgS3JNb#1",
+          "type": "Ed25519VerificationKey2018",
+          "controller": "did:sov:Sj8VLmEbc7w5tgaBgS3JNb",
+          "publicKeyBase58": "F2G9HcMsFy6wMe77ZDuWsgbhV7bLcHmNYuRTgp2fyyoF"
+        }
+      ]
+    },
+    "metadata": {
+      "resolver_type": "native",
+      "resolver": "LegacyPeerDIDResolver",
+      "retrieved_time": "2024-08-28T18:12:23Z",
+      "duration": 0
+    },
+    "id": "8673d16c-acb2-42fe-b791-9fe52f30ccc4",
+    "recipientKeyFingerprints": ["Sj8VLmEbc7w5tgaBgS3JNb"]
+  },
+  {
+    "did_document": {
+      "@context": "https://w3id.org/did/v1",
+      "id": "did:sov:4RwMajsszQpmTk67qDzfcP",
+      "authentication": ["did:sov:4RwMajsszQpmTk67qDzfcP#1"],
+      "service": [
+        {
+          "id": "did:sov:4RwMajsszQpmTk67qDzfcP#didcomm-0",
+          "type": "did-communication",
+          "priority": 0,
+          "recipientKeys": ["did:sov:4RwMajsszQpmTk67qDzfcP#1"],
+          "serviceEndpoint": "0.0.0.0:3000"
+        }
+      ],
+      "verificationMethod": [
+        {
+          "id": "did:sov:4RwMajsszQpmTk67qDzfcP#1",
+          "type": "Ed25519VerificationKey2018",
+          "controller": "did:sov:4RwMajsszQpmTk67qDzfcP",
+          "publicKeyBase58": "2sRo9L3GUrCz1AqHZALvSH4vCm3CY6VQQzX74vdwmcmN"
+        }
+      ]
+    },
+    "metadata": {
+      "resolver_type": "native",
+      "resolver": "LegacyPeerDIDResolver",
+      "retrieved_time": "2024-08-28T18:12:23Z",
+      "duration": 0
+    },
+    "id": "3135a6fe-cefb-487d-b19f-bde07b06f43e",
+    "recipientKeyFingerprints": ["4RwMajsszQpmTk67qDzfcP"]
+  },
+  {
+    "did_document": {
+      "@context": "https://w3id.org/did/v1",
+      "id": "did:sov:9MX1gMcLFXcBnrByZBSq7A",
+      "authentication": ["did:sov:9MX1gMcLFXcBnrByZBSq7A#1"],
+      "service": [
+        {
+          "id": "did:sov:9MX1gMcLFXcBnrByZBSq7A#didcomm-0",
+          "type": "did-communication",
+          "priority": 0,
+          "recipientKeys": ["did:sov:9MX1gMcLFXcBnrByZBSq7A#1"],
+          "serviceEndpoint": "http://localhost:3002"
+        }
+      ],
+      "verificationMethod": [
+        {
+          "id": "did:sov:9MX1gMcLFXcBnrByZBSq7A#1",
+          "type": "Ed25519VerificationKey2018",
+          "controller": "did:sov:9MX1gMcLFXcBnrByZBSq7A",
+          "publicKeyBase58": "5Z5YzQTqHTRtfPddHNNkHEigmMembcrwcxxRat2a7zfG"
+        }
+      ]
+    },
+    "metadata": {
+      "resolver_type": "native",
+      "resolver": "LegacyPeerDIDResolver",
+      "retrieved_time": "2024-08-28T18:12:23Z",
+      "duration": 0
+    },
+    "id": "d6482485-59b5-4fb9-a95f-7f76aa541893",
+    "recipientKeyFingerprints": ["9MX1gMcLFXcBnrByZBSq7A"]
+  },
+  {
+    "did_document": {
+      "@context": "https://w3id.org/did/v1",
+      "id": "did:sov:RJoxnXeeD9o54GFnhzysJT",
+      "authentication": ["did:sov:RJoxnXeeD9o54GFnhzysJT#1"],
+      "service": [
+        {
+          "id": "did:sov:RJoxnXeeD9o54GFnhzysJT#didcomm-0",
+          "type": "did-communication",
+          "priority": 0,
+          "recipientKeys": ["did:sov:RJoxnXeeD9o54GFnhzysJT#1"],
+          "serviceEndpoint": "http://0.0.0.0:3002"
+        }
+      ],
+      "verificationMethod": [
+        {
+          "id": "did:sov:RJoxnXeeD9o54GFnhzysJT#1",
+          "type": "Ed25519VerificationKey2018",
+          "controller": "did:sov:RJoxnXeeD9o54GFnhzysJT",
+          "publicKeyBase58": "EFPs5hdmJ1y6PqT8UAZpCszveqt7g9VNPLuUkVTyiQew"
+        }
+      ]
+    },
+    "metadata": {
+      "resolver_type": "native",
+      "resolver": "LegacyPeerDIDResolver",
+      "retrieved_time": "2024-08-28T18:12:23Z",
+      "duration": 0
+    },
+    "id": "a700b390-e413-4cf7-bca1-af8a3c9bf6a9",
+    "recipientKeyFingerprints": ["RJoxnXeeD9o54GFnhzysJT"]
+  },
+  {
+    "did_document": {
+      "@context": "https://w3id.org/did/v1",
+      "id": "did:sov:JK4xymoHr78TyRpyxyFUtT",
+      "authentication": ["did:sov:JK4xymoHr78TyRpyxyFUtT#1"],
+      "service": [
+        {
+          "id": "did:sov:JK4xymoHr78TyRpyxyFUtT#didcomm-0",
+          "type": "did-communication",
+          "priority": 0,
+          "recipientKeys": ["did:sov:JK4xymoHr78TyRpyxyFUtT#1"],
+          "serviceEndpoint": "http://0.0.0.0:3003"
+        }
+      ],
+      "verificationMethod": [
+        {
+          "id": "did:sov:JK4xymoHr78TyRpyxyFUtT#1",
+          "type": "Ed25519VerificationKey2018",
+          "controller": "did:sov:JK4xymoHr78TyRpyxyFUtT",
+          "publicKeyBase58": "ASFafWv48CDy7yeETUVya8VPRe9oMBKdDm67wJ561ZEN"
+        }
+      ]
+    },
+    "metadata": {
+      "resolver_type": "native",
+      "resolver": "LegacyPeerDIDResolver",
+      "retrieved_time": "2024-08-28T18:12:23Z",
+      "duration": 0
+    },
+    "id": "0fd04e5f-a1a1-4ba0-aa47-12e2964f2d36",
+    "recipientKeyFingerprints": ["JK4xymoHr78TyRpyxyFUtT"]
+  },
+  {
+    "did_document": {
+      "@context": "https://w3id.org/did/v1",
+      "id": "did:sov:JzLWaH5KfyTBqBLRpSYynA",
+      "authentication": ["did:sov:JzLWaH5KfyTBqBLRpSYynA#1"],
+      "service": [
+        {
+          "id": "did:sov:JzLWaH5KfyTBqBLRpSYynA#didcomm-0",
+          "type": "did-communication",
+          "priority": 0,
+          "recipientKeys": ["did:sov:JzLWaH5KfyTBqBLRpSYynA#1"],
+          "serviceEndpoint": "http://0.0.0.0:3003"
+        }
+      ],
+      "verificationMethod": [
+        {
+          "id": "did:sov:JzLWaH5KfyTBqBLRpSYynA#1",
+          "type": "Ed25519VerificationKey2018",
+          "controller": "did:sov:JzLWaH5KfyTBqBLRpSYynA",
+          "publicKeyBase58": "AoevLuZmyBxu6vi6zmKqZKfvAzU2YNmpTSmBe4LwV1un"
+        }
+      ]
+    },
+    "metadata": {
+      "resolver_type": "native",
+      "resolver": "LegacyPeerDIDResolver",
+      "retrieved_time": "2024-08-28T18:12:23Z",
+      "duration": 0
+    },
+    "id": "bc629c3b-7208-4277-bc65-a2cddfb57345",
+    "recipientKeyFingerprints": ["JzLWaH5KfyTBqBLRpSYynA"]
+  }
+]
